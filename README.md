@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aassile
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, and Data Science
-- 🌱 I’m currently learning SQL, R, and Python ML techniques as part of a professional certification.
+- 🌱 I’m currently pursuing my MS in Data Science.
 
 <!---
 aassile/aassile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
